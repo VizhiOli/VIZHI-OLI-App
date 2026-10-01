@@ -15,7 +15,7 @@ jobs:
 
       - name: Extract project
         run: |
-          unzip -o VIZHI_OLI_FREE_STARTER_PROJECT.zip -d .
+          unzip -o VIZHI_OLI_HOME_V1.zip
 
       - name: Set up Java
         uses: actions/setup-java@v4
