@@ -15,7 +15,7 @@ jobs:
 
       - name: Extract project
         run: |
-          unzip -o VIZHI_OLI_HOME_V2.zip
+          unzip -o VIZHI_OLI_HOME_V2_FIXED.zip
 
       - name: Set up Java
         uses: actions/setup-java@v4
